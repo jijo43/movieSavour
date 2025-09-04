@@ -26,19 +26,6 @@
     "watchCount": 0
   },
   {
-    "title": "Padakkalam",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTVkNjYwNjUtNzMyNC00NGJmLThiN2EtOWI1YTcyMGViZmNhXkEyXkFqcGc@._V1_SX300.jpg",
-    "releaseDate": "May 2025",
-    "director": "Manu Swaraj",
-    "apiLanguages": "Malayalam",
-    "language": "Malayalam",
-    "year": "2025",
-    "imdbID": "tt32919734",
-    "notes": "",
-    "images": [],
-    "watchCount": 1
-  },
-  {
     "title": "Thudarum",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTI2OTg0MzgtOGJlMC00MWU2LTlkMDItYTAwNzhmOGIwOWRmXkEyXkFqcGc@._V1_SX300.jpg",
     "releaseDate": "Apr 2025",
@@ -50,6 +37,19 @@
     "notes": "",
     "images": [],
     "watchCount": 0
+  },
+  {
+    "title": "Padakkalam",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTVkNjYwNjUtNzMyNC00NGJmLThiN2EtOWI1YTcyMGViZmNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "releaseDate": "May 2025",
+    "director": "Manu Swaraj",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2025",
+    "imdbID": "tt32919734",
+    "notes": "",
+    "images": [],
+    "watchCount": 1
   },
   {
     "title": "Rekhachithram",
