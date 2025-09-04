@@ -1152,5 +1152,19 @@
     "images": [],
     "watchCount": 0,
     "customPosterUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Friends_Malayalam.jpg"
+  },
+  {
+    "title": "Drishyam 2",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q2YTczM2QtNDBkNC00M2I5LTkyMzgtOTMwNzQ0N2UyYWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+    "releaseDate": "Feb 2021",
+    "director": "Jeethu Joseph",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2021",
+    "imdbID": "tt12361178",
+    "notes": "",
+    "images": [],
+    "watchCount": 0,
+    "customPosterUrl": ""
   }
 ]
