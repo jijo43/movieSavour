@@ -800,19 +800,5 @@
     "images": [],
     "watchCount": 0,
     "customPosterUrl": ""
-  },
-  {
-    "title": "Drishyam",
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2NmMGFjYTYtNWEwNS00MTM4LWE2ZTktNzZjMTE0OTQyNjFiXkEyXkFqcGc@._V1_SX300.jpg",
-    "releaseDate": "Jul 2015",
-    "director": "Nishikant Kamat",
-    "apiLanguages": "Hindi, English",
-    "language": "Hindi",
-    "year": "2015",
-    "imdbID": "tt4430212",
-    "notes": "",
-    "images": [],
-    "watchCount": 0,
-    "customPosterUrl": ""
   }
 ]
