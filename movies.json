@@ -1,18 +1,5 @@
 [
   {
-    "title": "Manassinakkare",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmY5NjliZWUtNmU5YS00ZDQyLWI0MjAtNzMyNTQ5NGIwNzhlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
-    "releaseDate": "Dec 2003",
-    "director": "Sathyan Anthikad",
-    "apiLanguages": "Malayalam",
-    "language": "Malayalam",
-    "year": "2003",
-    "imdbID": "tt0393452",
-    "notes": "",
-    "images": [],
-    "watchCount": 0
-  },
-  {
     "title": "Lokah Chapter One: Chandra",
     "poster": "https://m.media-amazon.com/images/M/MV5BZThiYjY3ODUtOGM4Yy00OGE0LTliM2UtYjFlNDY0Mzg3OWJlXkEyXkFqcGc@._V1_SX300.jpg",
     "releaseDate": "Aug 2025",
@@ -21,6 +8,19 @@
     "language": "Malayalam",
     "year": "2025",
     "imdbID": "tt33372494",
+    "notes": "",
+    "images": [],
+    "watchCount": 0
+  },
+  {
+    "title": "Manassinakkare",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmY5NjliZWUtNmU5YS00ZDQyLWI0MjAtNzMyNTQ5NGIwNzhlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+    "releaseDate": "Dec 2003",
+    "director": "Sathyan Anthikad",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2003",
+    "imdbID": "tt0393452",
     "notes": "",
     "images": [],
     "watchCount": 0
