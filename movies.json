@@ -716,5 +716,19 @@
     "images": [],
     "watchCount": 0,
     "customPosterUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/d3eokXlRPsZwwpFzTdgTqPYKm6C.jpg"
+  },
+  {
+    "title": "Fathers Day",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGRmYmYyOTEtODdiOC00MmUyLWJlOTctNDdmNjQ4N2E5YjY5XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+    "releaseDate": "Feb 2012",
+    "director": "Kalavur Ravikumar",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2012",
+    "imdbID": "tt4003682",
+    "notes": "",
+    "images": [],
+    "watchCount": 0,
+    "customPosterUrl": ""
   }
 ]
