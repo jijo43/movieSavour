@@ -884,5 +884,19 @@
     "images": [],
     "watchCount": 0,
     "customPosterUrl": ""
+  },
+  {
+    "title": "Bangalore Days",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI0YTgyNTEtNGU2Yi00MWQ5LWFiOTUtYTQ3MzMyNDcwYTIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "releaseDate": "May 2014",
+    "director": "Anjali Menon",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2014",
+    "imdbID": "tt3668162",
+    "notes": "",
+    "images": [],
+    "watchCount": 0,
+    "customPosterUrl": ""
   }
 ]
