@@ -26,6 +26,19 @@
     "watchCount": 0
   },
   {
+    "title": "Thudarum",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTI2OTg0MzgtOGJlMC00MWU2LTlkMDItYTAwNzhmOGIwOWRmXkEyXkFqcGc@._V1_SX300.jpg",
+    "releaseDate": "Apr 2025",
+    "director": "Tharun Moorthy",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2025",
+    "imdbID": "tt31969600",
+    "notes": "",
+    "images": [],
+    "watchCount": 0
+  },
+  {
     "title": "Rekhachithram",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTY3ZDgzNDQtZjMwZS00NDFmLTg2ZjMtNDhkMjE5NzJjMjMxXkEyXkFqcGc@._V1_SX300.jpg",
     "releaseDate": "Jan 2025",
@@ -47,6 +60,19 @@
     "language": "Malayalam",
     "year": "2024",
     "imdbID": "tt32887317",
+    "notes": "",
+    "images": [],
+    "watchCount": 0
+  },
+  {
+    "title": "Neru",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY0OTYyOWMtYzIzMy00Zjg0LWE2MjUtZTcxYWI4NTViNjYxXkEyXkFqcGc@._V1_SX300.jpg",
+    "releaseDate": "Dec 2023",
+    "director": "Jeethu Joseph",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2023",
+    "imdbID": "tt28358950",
     "notes": "",
     "images": [],
     "watchCount": 0
@@ -191,32 +217,6 @@
     "language": "Malayalam",
     "year": "2003",
     "imdbID": "tt0393452",
-    "notes": "",
-    "images": [],
-    "watchCount": 0
-  },
-  {
-    "title": "Neru",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDY0OTYyOWMtYzIzMy00Zjg0LWE2MjUtZTcxYWI4NTViNjYxXkEyXkFqcGc@._V1_SX300.jpg",
-    "releaseDate": "Dec 2023",
-    "director": "Jeethu Joseph",
-    "apiLanguages": "Malayalam",
-    "language": "Malayalam",
-    "year": "2023",
-    "imdbID": "tt28358950",
-    "notes": "",
-    "images": [],
-    "watchCount": 0
-  },
-  {
-    "title": "Thudarum",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTI2OTg0MzgtOGJlMC00MWU2LTlkMDItYTAwNzhmOGIwOWRmXkEyXkFqcGc@._V1_SX300.jpg",
-    "releaseDate": "Apr 2025",
-    "director": "Tharun Moorthy",
-    "apiLanguages": "Malayalam",
-    "language": "Malayalam",
-    "year": "2025",
-    "imdbID": "tt31969600",
     "notes": "",
     "images": [],
     "watchCount": 0
