@@ -660,5 +660,19 @@
     "images": [],
     "watchCount": 0,
     "customPosterUrl": ""
+  },
+  {
+    "title": "Inspector Garud",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjVkMjg0ZWQtN2U0Yi00MzYwLWIxNjgtYzM4ZmNkM2YwYTVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "releaseDate": "Jan 2007",
+    "director": "Johny Antony",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2007",
+    "imdbID": "tt0896817",
+    "notes": "",
+    "images": [],
+    "watchCount": 0,
+    "customPosterUrl": ""
   }
 ]
