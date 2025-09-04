@@ -702,5 +702,19 @@
     "images": [],
     "watchCount": 0,
     "customPosterUrl": "https://upload.wikimedia.org/wikipedia/en/e/ee/Shikkar_the_hunt.jpg"
+  },
+  {
+    "title": "Chinatown",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTI2NjlkNzAtOGU5ZC00NzFhLTgwZDYtOTRkZjc0MjVjYzRiXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+    "releaseDate": "May 2011",
+    "director": "Meccartin, Raffi",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2011",
+    "imdbID": "tt1904861",
+    "notes": "",
+    "images": [],
+    "watchCount": 0,
+    "customPosterUrl": ""
   }
 ]
