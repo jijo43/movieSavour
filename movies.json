@@ -1124,5 +1124,19 @@
     "images": [],
     "watchCount": 0,
     "customPosterUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Friends_Malayalam.jpg"
+  },
+  {
+    "title": "Punyalan Private Limited",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTc3ZmJhNDctMTE2Zi00OTI4LWIxMTctYmJmZmVkNWNlODhiXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_SX300.jpg",
+    "releaseDate": "Nov 2017",
+    "director": "Ranjith Sankar",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2017",
+    "imdbID": "tt6921302",
+    "notes": "",
+    "images": [],
+    "watchCount": 0,
+    "customPosterUrl": ""
   }
 ]
