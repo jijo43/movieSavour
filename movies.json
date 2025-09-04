@@ -78,6 +78,19 @@
     "watchCount": 0
   },
   {
+    "title": "Padakkalam",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTVkNjYwNjUtNzMyNC00NGJmLThiN2EtOWI1YTcyMGViZmNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "releaseDate": "May 2025",
+    "director": "Manu Swaraj",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2025",
+    "imdbID": "tt32919734",
+    "notes": "",
+    "images": [],
+    "watchCount": 0
+  },
+  {
     "title": "Jailer",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTM3NDEwYWYtZjljZC00Y2FkLTgzZDEtNjhhMjQwN2Q3MTMwXkEyXkFqcGc@._V1_SX300.jpg",
     "releaseDate": "Aug 2023",
@@ -204,19 +217,6 @@
     "language": "Malayalam",
     "year": "2009",
     "imdbID": "tt1447783",
-    "notes": "",
-    "images": [],
-    "watchCount": 0
-  },
-  {
-    "title": "Padakkalam",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTVkNjYwNjUtNzMyNC00NGJmLThiN2EtOWI1YTcyMGViZmNhXkEyXkFqcGc@._V1_SX300.jpg",
-    "releaseDate": "May 2025",
-    "director": "Manu Swaraj",
-    "apiLanguages": "Malayalam",
-    "language": "Malayalam",
-    "year": "2025",
-    "imdbID": "tt32919734",
     "notes": "",
     "images": [],
     "watchCount": 0
