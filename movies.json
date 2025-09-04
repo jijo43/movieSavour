@@ -91,6 +91,19 @@
     "watchCount": 0
   },
   {
+    "title": "A.R.M",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdiZjI3OGYtZTk1YS00Mjk5LTlmYzktODQ4NDQyM2JjNmI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "releaseDate": "Sep 2024",
+    "director": "Jithin Lal",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2024",
+    "imdbID": "tt11531182",
+    "notes": "",
+    "images": [],
+    "watchCount": 0
+  },
+  {
     "title": "Untitled Gautham Vasudev Menon/Mammootty Project",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjBiNzUxNTItNzdmYS00MTBlLTkzYjgtZjhjNDg3ZWU5MmUwXkEyXkFqcGc@._V1_SX300.jpg",
     "releaseDate": " 2024",
@@ -282,19 +295,6 @@
     "language": "Malayalam",
     "year": "2003",
     "imdbID": "tt0393452",
-    "notes": "",
-    "images": [],
-    "watchCount": 0
-  },
-  {
-    "title": "A.R.M",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTdiZjI3OGYtZTk1YS00Mjk5LTlmYzktODQ4NDQyM2JjNmI3XkEyXkFqcGc@._V1_SX300.jpg",
-    "releaseDate": "Sep 2024",
-    "director": "Jithin Lal",
-    "apiLanguages": "Malayalam",
-    "language": "Malayalam",
-    "year": "2024",
-    "imdbID": "tt11531182",
     "notes": "",
     "images": [],
     "watchCount": 0
