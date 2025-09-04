@@ -688,5 +688,19 @@
     "images": [],
     "watchCount": 0,
     "customPosterUrl": ""
+  },
+  {
+    "title": "Shikkar",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWEwNDA4M2QtZjNiYy00OGIxLTgzNmYtMzQ3NzQwNDJhODcyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+    "releaseDate": "Sep 2010",
+    "director": "M. Padmakumar",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2010",
+    "imdbID": "tt1734480",
+    "notes": "",
+    "images": [],
+    "watchCount": 0,
+    "customPosterUrl": ""
   }
 ]
