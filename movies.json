@@ -758,5 +758,19 @@
     "images": [],
     "watchCount": 0,
     "customPosterUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Friends_Malayalam.jpg"
+  },
+  {
+    "title": "Ustad Hotel",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTU2MzI3ZTMtNjRjOC00ZDBmLTkxYzctZjZjOTk2YTQxNTJlXkEyXkFqcGc@._V1_SX300.jpg",
+    "releaseDate": "Jun 2012",
+    "director": "Anwar Rasheed",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2012",
+    "imdbID": "tt2218988",
+    "notes": "",
+    "images": [],
+    "watchCount": 0,
+    "customPosterUrl": ""
   }
 ]
