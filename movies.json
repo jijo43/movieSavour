@@ -828,5 +828,19 @@
     "images": [],
     "watchCount": 0,
     "customPosterUrl": ""
+  },
+  {
+    "title": "Oru Indian Pranayakatha",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTY2MGZmMWItNDBhOS00NWQzLWFmMDEtZDcxOWM5MDI3YTMwXkEyXkFqcGc@._V1_SX300.jpg",
+    "releaseDate": "Dec 2013",
+    "director": "Sathyan Anthikad",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2013",
+    "imdbID": "tt3502488",
+    "notes": "",
+    "images": [],
+    "watchCount": 0,
+    "customPosterUrl": ""
   }
 ]
