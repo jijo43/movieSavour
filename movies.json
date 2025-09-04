@@ -52,6 +52,19 @@
     "watchCount": 1
   },
   {
+    "title": "Alappuzha Gymkhana",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzE3ODQyZmItMmQ1NC00NjA1LTllMGEtYTRmNTFhZmY2NTM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "releaseDate": "Apr 2025",
+    "director": "Khalid Rahman",
+    "apiLanguages": "Malayalam, Tamil, Telugu, Kannada, Hindi",
+    "language": "Malayalam",
+    "year": "2025",
+    "imdbID": "tt29884526",
+    "notes": "",
+    "images": [],
+    "watchCount": 0
+  },
+  {
     "title": "Rekhachithram",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTY3ZDgzNDQtZjMwZS00NDFmLTg2ZjMtNDhkMjE5NzJjMjMxXkEyXkFqcGc@._V1_SX300.jpg",
     "releaseDate": "Jan 2025",
@@ -152,19 +165,6 @@
     "language": "Malayalam",
     "year": "2016",
     "imdbID": "tt5376232",
-    "notes": "",
-    "images": [],
-    "watchCount": 0
-  },
-  {
-    "title": "Alappuzha Gymkhana",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzE3ODQyZmItMmQ1NC00NjA1LTllMGEtYTRmNTFhZmY2NTM3XkEyXkFqcGc@._V1_SX300.jpg",
-    "releaseDate": "Apr 2025",
-    "director": "Khalid Rahman",
-    "apiLanguages": "Malayalam, Tamil, Telugu, Kannada, Hindi",
-    "language": "Malayalam",
-    "year": "2025",
-    "imdbID": "tt29884526",
     "notes": "",
     "images": [],
     "watchCount": 0
