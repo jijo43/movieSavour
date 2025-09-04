@@ -730,5 +730,19 @@
     "images": [],
     "watchCount": 0,
     "customPosterUrl": "https://upload.wikimedia.org/wikipedia/en/6/65/Father%27s_day_Malayalamfilm.jpg"
+  },
+  {
+    "title": "Ordinary",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMxNDhiMGQtYzg5Zi00YjY0LWJkMzAtZWQzNzA4ODM5NGZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "releaseDate": "Mar 2012",
+    "director": "Sugeeth",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2012",
+    "imdbID": "tt2355765",
+    "notes": "",
+    "images": [],
+    "watchCount": 0,
+    "customPosterUrl": ""
   }
 ]
