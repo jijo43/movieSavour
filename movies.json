@@ -786,5 +786,19 @@
     "images": [],
     "watchCount": 0,
     "customPosterUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Friends_Malayalam.jpg"
+  },
+  {
+    "title": "Thappana",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDZiNjc3ZTgtNmEwZi00MzNlLTlkNjgtM2FhMGM0YzQwNjRjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+    "releaseDate": "Sep 2012",
+    "director": "Johny Antony",
+    "apiLanguages": "Malayalam",
+    "language": "Malayalam",
+    "year": "2012",
+    "imdbID": "tt2391706",
+    "notes": "",
+    "images": [],
+    "watchCount": 0,
+    "customPosterUrl": ""
   }
 ]
